@@ -1,0 +1,22 @@
+site_name: North America Z Technical Sales - Z Demos
+repo_url: https://github.com/ibmzdemos/home.git
+edit_uri: ''
+nav:
+    - Home: index.md
+    - Data and AI on Z: dataai.md
+    - Z DevOps: zdevops.md
+    - Z Hybrid Cloud:
+        - Introduction: hybridcloud.md
+        - Cloud Paks for Z: cloudpaks.md
+        - OpenShift on Z: openshift.md
+        - Blockchain on Z: blockchain.md
+        - z/OS Cloud Broker: zoscloudbroker.md
+    - Z Security: security.md
+    - Z New Technology: newtech.md
+    - Z15: z15.md
+    - LinuxONE: linuxone.md
+    - Contact Us: contact.md
+
+theme: material
+markdown_extensions:
+  - admonition
