@@ -15,6 +15,7 @@ nav:
     - Z New Technology: newtech.md
     - Z15: z15.md
     - LinuxONE: linuxone.md
+    - z/OS Solutions: zossolutions.md
     - Contact Us: contact.md
 
 theme: material
